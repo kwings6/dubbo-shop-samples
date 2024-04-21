@@ -14,10 +14,3 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-#dubbo:
-#    application:
-#        name: dubbo-shop-CheckoutController
-#        qos-port: 20995
-#    registry:
-#      address: nacos://${nacos.address:127.0.0.1}:8848?register-consumer-url=true
-

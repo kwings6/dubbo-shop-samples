@@ -20,6 +20,7 @@
         <module name="dubbo-shop-web-goodsDetails" />
         <module name="dubbo-shop-web-newGoods" />
         <module name="dubbo-shop-service-newGoods" />
+        <module name="dubbo-shop-web-ads" />
         <module name="frontend" />
         <module name="dubbo-shop-web-checkout" />
       </profile>

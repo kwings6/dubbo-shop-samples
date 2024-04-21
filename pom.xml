@@ -24,6 +24,7 @@
         <module>dubbo-shop-service-hotGoods</module>
         <module>dubbo-shop-web-goodsDetails</module>
         <module>dubbo-shop-service-goodsDetails</module>
+        <module>dubbo-shop-web-ads</module>
     </modules>
 
     <properties>
