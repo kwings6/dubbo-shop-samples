@@ -15,8 +15,7 @@ public class NewGoodsServiceImpl implements NewGoodsService {
     NewGoodsMapper newGoodsMapper;
     @Override
     public NewGoodsList newGoodsListResult() {
-        System.out.println(newGoodsMapper);
-        System.out.println(newGoodsMapper.getNewGoodsList());
+
         NewGood newGood = newGoodsMapper.getNewGoodsList();
         System.out.println(newGood);
         return null;
