@@ -9,6 +9,8 @@
     <file url="file://$PROJECT_DIR$/dubbo-shop-common-pojo/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-shop-interface/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-shop-interface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-shop-service-ads/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-shop-service-ads/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-shop-service-checkout/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-shop-service-checkout/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-shop-service-goodsDetails/src/main/java" charset="UTF-8" />

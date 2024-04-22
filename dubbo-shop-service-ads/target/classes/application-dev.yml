@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: AdServiceImpl
+dubbo:
+  application:
+    logger: slf4j
+    name: ${spring.application.name}
+    qos-enable: false
+    check-serializable: false
+  registry:
+    address: zookeeper://${zookeeper.address:127.0.0.1}:2181
+  protocol:
+    port: 20882
+    name: dubbo
+
